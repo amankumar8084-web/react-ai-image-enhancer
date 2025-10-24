@@ -40,7 +40,7 @@ const ImagePreview = (props) => {
                     <Loading />
                 ) : (
                     <div className="flex items-center justify-center h-80 bg-gray-200">
-                        No Enhanced Image
+                        Not Enhanced Image
                     </div>
                 )}
             </div>
